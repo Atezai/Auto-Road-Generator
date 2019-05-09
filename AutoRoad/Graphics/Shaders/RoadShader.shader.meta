@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3643827fa24fb7740a425825208d48bf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _RoadTexture: {fileID: 2800000, guid: 7223e977a60d13b47ab26716534ad54e, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
